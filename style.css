@@ -1,0 +1,48 @@
+#title {
+  color:#ffffff;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+body{
+  text-align: center;
+  background: #e11383 
+  }
+p {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  text-align: center;
+  font-size: 95% 
+}
+#survey-form {
+  background-color: #f5821f;
+  width: 900px;
+  margin: 0 auto;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.row-tab {
+  display: block;
+  padding-top: 20px;
+}
+.label-donut {
+  display: inline-block;
+   width: 40%;
+  text-align: center;
+}
+.input-donut{
+  display: inline-block;
+   width: 40%;
+  text-align: left; 
+}
+.select-input {
+   display: inline-block;
+   width: 40%;
+  text-align: left; 
+}
+.label-select {
+  display: inline-block;
+   width: 40%;
+  text-align: center; 
+}
+.button {
+  padding: 20px;
+  background: #e11383 
+
+}
